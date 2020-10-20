@@ -70,5 +70,8 @@
   "scripts": {
     "build": "webpack --mode production",
     "preversion": "npm run build"
+  },
+  "dependencies": {
+    "@wiris/mathtype-ckeditor5": "^7.24.1"
   }
 }
